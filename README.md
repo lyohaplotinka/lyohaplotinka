@@ -11,5 +11,5 @@ A few words about my skills:
 ![7](https://progress-bar.dev/7?scale=10&title=Node.js%20%20%20&color=777&suffix=) ![6](https://progress-bar.dev/6?scale=10&title=Docker%20%20%20%20&color=777&suffix=)  
 ![3](https://progress-bar.dev/3?scale=10&title=Angular%20%20%20&color=777&suffix=) ![2](https://progress-bar.dev/2?scale=10&title=Ember%20%20%20%20%20&color=777&suffix=)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyohaplotinka&show_icons=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyohaplotinka)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyohaplotinka&show_icons=true)
